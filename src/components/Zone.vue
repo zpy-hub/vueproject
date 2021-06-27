@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h5>{{ mse }}</h5>
-    <testa totesta="testa"></testa>
+    <testa totesta="新建分支testa"></testa>
   </div>
 </template>
 
