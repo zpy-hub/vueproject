@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <HelloWorld msg="zpy20210925"/>
+    <HelloWorld msg="zpy09251126"/>
     <Zone mse="zone"/>
   </div>
 </template>
